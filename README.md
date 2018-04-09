@@ -3,7 +3,7 @@ Group Project by: Andrew Carl, Tucker Allen, David Hoffman and Youn-Hee Pernling
 
 ![west nile virus mgn image](https://user-images.githubusercontent.com/35437820/38501969-395608f2-3bdc-11e8-97dc-ab33ee749eab.jpg)
 
- **http://www.wifr.com/content/news/First-mosquitoes-testing-positive-for-West-Nile-Virus-in-Illinois-426023144.html
+ **Picture from (http://www.wifr.com/content/news/First-mosquitoes-testing-positive-for-West-Nile-Virus-in-Illinois-426023144.html)
  
 # Scenario
 West Nile virus is most commonly spread to humans through infected mosquitos. Around 20% of people who become infected with the virus develop symptoms ranging from a persistent fever, to serious neurological illnesses that can result in death.
