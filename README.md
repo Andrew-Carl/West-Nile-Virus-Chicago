@@ -16,5 +16,5 @@ The dataset, along with description, can be found here: https://www.kaggle.com/c
 
 # Presentation Slides
 
-https://docs.google.com/presentation/d/1pVu9Kny96oMBPrE9BkOLjfOUPx0yyCS4yAWY9dCz_xw/edit?usp=sharing
+[Chicago West Nile Virus Epidemic.pdf](https://github.com/Andrew-Carl/West-Nile-Virus-Chicago/files/1890140/Chicago.West.Nile.Virus.Epidemic.pdf)
 
