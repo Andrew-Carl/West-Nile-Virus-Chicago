@@ -1,5 +1,5 @@
 # West-Nile-Virus-Chicago
-Group Project by: Andrew Carl, Tucker Allen, David Hoffman and Youn-Hee Pernling-Frödin.
+Group Project by: Andrew Carl, Tucker Allen, David Hoffman and Youn-Hee Pernling-Frödin. 
 
 ![west nile virus mgn image](https://user-images.githubusercontent.com/35437820/38501969-395608f2-3bdc-11e8-97dc-ab33ee749eab.jpg)
 
