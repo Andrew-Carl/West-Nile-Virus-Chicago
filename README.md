@@ -1,10 +1,10 @@
 # West-Nile-Virus-Chicago
 **Group Project by:** 
 
--Andrew Carl
--Tucker Allen - https://github.com/Tucker-Allen
--Youn-Hee Pernling-Frödin - https://github.com/yhpf
--David Hoffman - https://github.com/davehoff
+-Andrew Carl   
+-Tucker Allen - https://github.com/Tucker-Allen   
+-Youn-Hee Pernling-Frödin - https://github.com/yhpf   
+-David Hoffman - https://github.com/davehoff   
 
 ![west nile virus mgn image](https://user-images.githubusercontent.com/35437820/38501969-395608f2-3bdc-11e8-97dc-ab33ee749eab.jpg)
 
