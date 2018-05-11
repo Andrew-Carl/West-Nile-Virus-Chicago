@@ -1,5 +1,5 @@
 # West-Nile-Virus-Chicago
-**Group Project by:** 
+**Contributors:** 
 
 -Andrew Carl   
 -Tucker Allen - https://github.com/Tucker-Allen   
